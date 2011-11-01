@@ -9,7 +9,7 @@
 	<key>input</key>
 	<string>document</string>
 	<key>keyEquivalent</key>
-	<string>^H</string>
+	<string>Cmd-S</string>
 	<key>name</key>
 	<string>Gofmt</string>
 	<key>output</key>
