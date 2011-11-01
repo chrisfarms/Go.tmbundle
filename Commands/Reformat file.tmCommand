@@ -9,9 +9,9 @@
 	<key>input</key>
 	<string>document</string>
 	<key>keyEquivalent</key>
-	<string>Cmd-S</string>
+	<string>@s</string>
 	<key>name</key>
-	<string>Gofmt</string>
+	<string>Save (and gofmt)</string>
 	<key>output</key>
 	<string>replaceDocument</string>
 	<key>scope</key>
