@@ -9,7 +9,7 @@
 	<key>input</key>
 	<string>document</string>
 	<key>keyEquivalent</key>
-	<string>@s</string>
+	<string>@S</string>
 	<key>name</key>
 	<string>Save (and gofmt)</string>
 	<key>output</key>
